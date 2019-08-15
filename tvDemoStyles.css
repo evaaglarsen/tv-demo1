@@ -1,0 +1,38 @@
+.topNavigationBar {
+    background-color: green;
+    background-size:50px;
+    border-color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+H1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+}
+
+.showSelector {
+    background-color: gray;
+    background-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.inputForm {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
+.CUButton {
+    background-color: green;
+    background-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+}
+
